@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="codeigniter" tests="1" assertions="1" failures="0" errors="0" time="0.007293">
+    <testsuite name="eventTest" file="/var/www/codeigniter/tests/application/libraries/event/eventTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.007293">
+      <testcase name="testAdd_numbers" class="eventTest" file="/var/www/codeigniter/tests/application/libraries/event/eventTest.php" line="56" assertions="1" time="0.007293"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
